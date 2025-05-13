@@ -1,0 +1,654 @@
+{
+    "state": {
+        "A00DA34510ID": {
+            "buttons": {
+                "0": {
+                    "0": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Personal",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 2,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 18,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "1": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Work",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 3,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 21,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "2": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "/usr/share/fonts/eb-garamond/EBGaramond[wght].ttf",
+                                "font_color": "",
+                                "font_size": 72,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "3": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "4": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "5": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    }
+                },
+                "1": {
+                    "0": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "1": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "2": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "3": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Back to\nmenu",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 1,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 20,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "4": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "5": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    }
+                },
+                "2": {
+                    "0": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Open\nProjects",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 4,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 19,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "1": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Visual\ncode",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 5,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 19,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "2": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "3": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Back to\nMenu",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 1,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 20,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "4": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "5": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    }
+                },
+                "3": {
+                    "0": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Viajes",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "code /home/work/bain/viajes",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 25,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "1": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "fys",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "code /home/work/bain/fatiga",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 29,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "2": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "desvia -\nciones",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "code /home/work/bain/desv",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 20,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "3": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Back to\nWork",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 3,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 19,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "4": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "5": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Next",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 24,
+                                "background_color": ""
+                            }
+                        }
+                    }
+                },
+                "4": {
+                    "0": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Play",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "1": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Step into",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "2": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Stop",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "3": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "Back to\nWork",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 3,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 20,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "4": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "5": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "display_timeout": 1800,
+            "brightness": 100,
+            "brightness_dimmed": 0,
+            "rotation": 0,
+            "page": 4
+        }
+    },
+    "streamdeck_ui_version": 2
+}
