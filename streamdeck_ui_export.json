@@ -8,7 +8,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/vol-off.png",
+                                "icon": "/home/prezdev/streamdeck/images/vol-off.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
@@ -24,7 +24,7 @@
                             },
                             "1": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/vol-off.png",
+                                "icon": "/home/prezdev/streamdeck/images/vol-off.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
@@ -45,7 +45,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/vol-down.png",
+                                "icon": "/home/prezdev/streamdeck/images/vol-down.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "pactl set-sink-volume @DEFAULT_SINK@ -2%",
@@ -66,7 +66,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/vol-up.png",
+                                "icon": "/home/prezdev/streamdeck/images/vol-up.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "pactl set-sink-volume @DEFAULT_SINK@ +2%",
@@ -87,7 +87,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/visual.png",
+                                "icon": "/home/prezdev/streamdeck/images/visual.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
@@ -129,7 +129,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/next.png",
+                                "icon": "/home/prezdev/streamdeck/images/next.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
@@ -152,7 +152,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/arch.png",
+                                "icon": "/home/prezdev/streamdeck/images/arch.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "xfce4-terminal --command \"bash -c 'sudo pacman -Syu; read -p \\\"Presiona Enter para cerrar...\\\"'\"",
@@ -173,7 +173,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/arch.png",
+                                "icon": "/home/prezdev/streamdeck/images/arch.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "xfce4-terminal --command \"bash -c 'sudo pacman -Syu; read -p \\\"Presiona Enter para cerrar...\\\"'\"",
@@ -215,7 +215,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/prev.png",
+                                "icon": "/home/prezdev/streamdeck/images/prev.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
@@ -257,7 +257,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/next.png",
+                                "icon": "/home/prezdev/streamdeck/images/next.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
@@ -280,7 +280,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/continue.png",
+                                "icon": "/home/prezdev/streamdeck/images/continue.png",
                                 "keys": "f5",
                                 "write": "",
                                 "command": "",
@@ -301,7 +301,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/step-over.png",
+                                "icon": "/home/prezdev/streamdeck/images/step-over.png",
                                 "keys": "f10",
                                 "write": "",
                                 "command": "",
@@ -322,7 +322,7 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/Im\u00e1genes/elgato/stop.png",
+                                "icon": "/home/prezdev/streamdeck/images/stop.png",
                                 "keys": "shift+f5",
                                 "write": "",
                                 "command": "",
