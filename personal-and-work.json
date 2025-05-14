@@ -7,19 +7,19 @@
                         "state": 0,
                         "states": {
                             "0": {
-                                "text": "Personal",
-                                "icon": "",
+                                "text": "",
+                                "icon": "/home/prezdev/streamdeck/images/personal.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
                                 "brightness_change": 0,
                                 "switch_page": 2,
                                 "switch_state": 0,
-                                "text_vertical_align": "middle",
+                                "text_vertical_align": "",
                                 "text_horizontal_align": "",
                                 "font": "",
                                 "font_color": "",
-                                "font_size": 18,
+                                "font_size": 15,
                                 "background_color": ""
                             }
                         }
@@ -28,19 +28,19 @@
                         "state": 0,
                         "states": {
                             "0": {
-                                "text": "Work",
-                                "icon": "",
+                                "text": "",
+                                "icon": "/home/prezdev/streamdeck/images/work.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
                                 "brightness_change": 0,
                                 "switch_page": 3,
                                 "switch_state": 0,
-                                "text_vertical_align": "middle",
+                                "text_vertical_align": "",
                                 "text_horizontal_align": "",
                                 "font": "",
                                 "font_color": "",
-                                "font_size": 21,
+                                "font_size": 18,
                                 "background_color": ""
                             }
                         }
@@ -113,6 +113,29 @@
                         "states": {
                             "0": {
                                 "text": "",
+                                "icon": "/home/prezdev/streamdeck/images/close.png",
+                                "keys": "win+esc",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 0,
+                                "background_color": "#ba0000"
+                            }
+                        }
+                    }
+                },
+                "1": {
+                    "0": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
                                 "icon": "",
                                 "keys": "",
                                 "write": "",
@@ -128,47 +151,24 @@
                                 "background_color": ""
                             }
                         }
-                    }
-                },
-                "1": {
-                    "0": {
-                        "state": 0,
-                        "states": {
-                            "0": {
-                                "text": "Updates",
-                                "icon": "",
-                                "keys": "",
-                                "write": "",
-                                "command": "",
-                                "brightness_change": 0,
-                                "switch_page": 6,
-                                "switch_state": 0,
-                                "text_vertical_align": "middle",
-                                "text_horizontal_align": "",
-                                "font": "",
-                                "font_color": "",
-                                "font_size": 20,
-                                "background_color": ""
-                            }
-                        }
                     },
                     "1": {
                         "state": 0,
                         "states": {
                             "0": {
-                                "text": "Configs",
+                                "text": "",
                                 "icon": "",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
                                 "brightness_change": 0,
-                                "switch_page": 7,
+                                "switch_page": 0,
                                 "switch_state": 0,
-                                "text_vertical_align": "middle",
+                                "text_vertical_align": "",
                                 "text_horizontal_align": "",
                                 "font": "",
                                 "font_color": "",
-                                "font_size": 21,
+                                "font_size": 0,
                                 "background_color": ""
                             }
                         }
@@ -220,19 +220,19 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "",
+                                "icon": "/home/prezdev/streamdeck/images/update.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
                                 "brightness_change": 0,
-                                "switch_page": 0,
+                                "switch_page": 6,
                                 "switch_state": 0,
                                 "text_vertical_align": "",
                                 "text_horizontal_align": "",
                                 "font": "",
                                 "font_color": "",
                                 "font_size": 0,
-                                "background_color": ""
+                                "background_color": "#1f8d1d"
                             }
                         }
                     },
@@ -241,19 +241,19 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "",
+                                "icon": "/home/prezdev/streamdeck/images/config.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
                                 "brightness_change": 0,
-                                "switch_page": 0,
+                                "switch_page": 7,
                                 "switch_state": 0,
-                                "text_vertical_align": "",
+                                "text_vertical_align": "middle",
                                 "text_horizontal_align": "",
                                 "font": "",
                                 "font_color": "",
-                                "font_size": 0,
-                                "background_color": ""
+                                "font_size": 21,
+                                "background_color": "#ebc800"
                             }
                         }
                     }
@@ -264,14 +264,14 @@
                         "states": {
                             "0": {
                                 "text": "Projects",
-                                "icon": "",
+                                "icon": "/home/prezdev/streamdeck/images/folder-yellow.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
                                 "brightness_change": 0,
                                 "switch_page": 8,
                                 "switch_state": 0,
-                                "text_vertical_align": "middle",
+                                "text_vertical_align": "middle-bottom",
                                 "text_horizontal_align": "",
                                 "font": "",
                                 "font_color": "",
@@ -284,8 +284,8 @@
                         "state": 0,
                         "states": {
                             "0": {
-                                "text": "Visual\ncode",
-                                "icon": "",
+                                "text": "",
+                                "icon": "/home/prezdev/streamdeck/images/visual.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "",
@@ -391,8 +391,8 @@
                         "state": 0,
                         "states": {
                             "0": {
-                                "text": "Viajes",
-                                "icon": "",
+                                "text": "viajes",
+                                "icon": "/home/prezdev/streamdeck/images/open.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "code /home/work/bain/viajes",
@@ -404,7 +404,7 @@
                                 "font": "",
                                 "font_color": "",
                                 "font_size": 25,
-                                "background_color": ""
+                                "background_color": "#367a8d"
                             }
                         }
                     },
@@ -413,7 +413,7 @@
                         "states": {
                             "0": {
                                 "text": "fys",
-                                "icon": "",
+                                "icon": "/home/prezdev/streamdeck/images/open.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "code /home/work/bain/fatiga",
@@ -424,8 +424,8 @@
                                 "text_horizontal_align": "",
                                 "font": "",
                                 "font_color": "",
-                                "font_size": 29,
-                                "background_color": ""
+                                "font_size": 23,
+                                "background_color": "#993897"
                             }
                         }
                     },
@@ -434,7 +434,7 @@
                         "states": {
                             "0": {
                                 "text": "desvia -\nciones",
-                                "icon": "",
+                                "icon": "/home/prezdev/streamdeck/images/open.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "code /home/work/bain/desv",
@@ -446,7 +446,7 @@
                                 "font": "",
                                 "font_color": "",
                                 "font_size": 20,
-                                "background_color": ""
+                                "background_color": "#3b933b"
                             }
                         }
                     },
@@ -476,7 +476,7 @@
                         "states": {
                             "0": {
                                 "text": "Bain\nDoc",
-                                "icon": "",
+                                "icon": "/home/prezdev/streamdeck/images/doc.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "google-chrome-stable \"https://docs.google.com/document/d/1Kc-xs-hMdsXUozh9J_9mextqFOpxw5Fg7Z9Q7EomRb4/edit?tab=t.0#heading=h.e0psik1ku2p6\"\n",
@@ -488,7 +488,7 @@
                                 "font": "",
                                 "font_color": "",
                                 "font_size": 23,
-                                "background_color": ""
+                                "background_color": "#3127b5"
                             }
                         }
                     },
@@ -776,18 +776,18 @@
                         "states": {
                             "0": {
                                 "text": "i3",
-                                "icon": "",
+                                "icon": "/home/prezdev/streamdeck/images/i3wm.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "code /home/work/.config/i3",
                                 "brightness_change": 0,
                                 "switch_page": 0,
                                 "switch_state": 0,
-                                "text_vertical_align": "middle",
+                                "text_vertical_align": "",
                                 "text_horizontal_align": "",
                                 "font": "",
                                 "font_color": "",
-                                "font_size": 26,
+                                "font_size": 15,
                                 "background_color": ""
                             }
                         }
@@ -797,18 +797,18 @@
                         "states": {
                             "0": {
                                 "text": "Polybar",
-                                "icon": "",
+                                "icon": "/home/prezdev/streamdeck/images/polybar.png",
                                 "keys": "",
                                 "write": "",
                                 "command": "code /home/work/.config/polybar",
                                 "brightness_change": 0,
                                 "switch_page": 0,
                                 "switch_state": 0,
-                                "text_vertical_align": "middle",
+                                "text_vertical_align": "",
                                 "text_horizontal_align": "",
                                 "font": "",
                                 "font_color": "",
-                                "font_size": 20,
+                                "font_size": 12,
                                 "background_color": ""
                             }
                         }
