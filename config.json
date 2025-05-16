@@ -29,48 +29,6 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "/home/prezdev/streamdeck/images/work.png",
-                                "keys": "",
-                                "write": "",
-                                "command": "",
-                                "brightness_change": 0,
-                                "switch_page": 3,
-                                "switch_state": 0,
-                                "text_vertical_align": "",
-                                "text_horizontal_align": "",
-                                "font": "",
-                                "font_color": "",
-                                "font_size": 18,
-                                "background_color": ""
-                            }
-                        }
-                    },
-                    "2": {
-                        "state": 0,
-                        "states": {
-                            "0": {
-                                "text": "",
-                                "icon": "",
-                                "keys": "",
-                                "write": "",
-                                "command": "",
-                                "brightness_change": 0,
-                                "switch_page": 0,
-                                "switch_state": 0,
-                                "text_vertical_align": "middle",
-                                "text_horizontal_align": "",
-                                "font": "/usr/share/fonts/eb-garamond/EBGaramond[wght].ttf",
-                                "font_color": "",
-                                "font_size": 72,
-                                "background_color": ""
-                            }
-                        }
-                    },
-                    "3": {
-                        "state": 0,
-                        "states": {
-                            "0": {
-                                "text": "",
                                 "icon": "",
                                 "keys": "",
                                 "write": "",
@@ -83,6 +41,48 @@
                                 "font": "",
                                 "font_color": "",
                                 "font_size": 0,
+                                "background_color": ""
+                            }
+                        }
+                    },
+                    "2": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "/home/prezdev/streamdeck/images/vol-up.png",
+                                "keys": "",
+                                "write": "",
+                                "command": "pactl set-sink-volume @DEFAULT_SINK@ +2%",
+                                "brightness_change": 0,
+                                "switch_page": 0,
+                                "switch_state": 0,
+                                "text_vertical_align": "middle",
+                                "text_horizontal_align": "",
+                                "font": "/usr/share/fonts/eb-garamond/EBGaramond[wght].ttf",
+                                "font_color": "",
+                                "font_size": 72,
+                                "background_color": "#007c0c"
+                            }
+                        }
+                    },
+                    "3": {
+                        "state": 0,
+                        "states": {
+                            "0": {
+                                "text": "",
+                                "icon": "/home/prezdev/streamdeck/images/work.png",
+                                "keys": "",
+                                "write": "",
+                                "command": "",
+                                "brightness_change": 0,
+                                "switch_page": 3,
+                                "switch_state": 0,
+                                "text_vertical_align": "",
+                                "text_horizontal_align": "",
+                                "font": "",
+                                "font_color": "",
+                                "font_size": 18,
                                 "background_color": ""
                             }
                         }
@@ -113,10 +113,10 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "",
+                                "icon": "/home/prezdev/streamdeck/images/vol-down.png",
                                 "keys": "",
                                 "write": "",
-                                "command": "",
+                                "command": "pactl set-sink-volume @DEFAULT_SINK@ -2%",
                                 "brightness_change": 0,
                                 "switch_page": 0,
                                 "switch_state": 0,
@@ -125,7 +125,7 @@
                                 "font": "",
                                 "font_color": "",
                                 "font_size": 0,
-                                "background_color": ""
+                                "background_color": "#b80003"
                             }
                         }
                     }
